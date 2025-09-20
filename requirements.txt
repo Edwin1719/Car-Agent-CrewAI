@@ -3,6 +3,7 @@ crewai>=0.95.0,<1.0.0
 
 # OpenAI Integration (Compatible with CrewAI)
 openai>=1.0.0,<1.100.0
+langchain-openai>=0.1.0,<1.0.0
 
 # Web Interface
 streamlit>=1.32.0,<2.0.0
@@ -32,4 +33,5 @@ pydantic>=2.0.0,<3.0.0
 requests>=2.31.0,<3.0.0
 
 # SQLite3 Fix for Streamlit Cloud
+
 pysqlite3-binary>=0.5.0
